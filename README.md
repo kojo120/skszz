@@ -1,1 +1,3 @@
-# skszz
+# maven-project
+
+Simple Maven Project
